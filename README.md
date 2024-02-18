@@ -1,10 +1,10 @@
 <h1 align = "center" > STUDY ASYNC </h1>
-Construção de uma plataforma/ferramenta de estudos para estudantes de qualquer área. 
+Construção de uma plataforma/ferramenta de estudos para estudantes de qualquer área, projeto desenvolvido através do evento Pystack Week da Pythonando. 
 <br/>
 
 <h1 align="center"> PROJETO </h1> 
 
-Realizar a construção de uma plataforma, com cadastro, login e authenticação de usuários, no qual fosse possível, criar flashcards, adicionando perguntas e respostas, progredindo com desafios criados pela aplicação.
+Desenvolver uma plataforma, com cadastro, login e authenticação de usuários, no qual fosse possível, criar flashcards, adicionando perguntas e respostas, progredindo com desafios criados pela aplicação.
 <br/>
 
 ## TECNOLOGIAS UTILIZADAS
